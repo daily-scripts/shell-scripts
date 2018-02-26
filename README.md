@@ -13,3 +13,27 @@ blog：[自动化安装Cacti脚本 ](http://blog.51cto.com/kaliarch/1898212)
 > elk 安装(elasticsearch-5.4.1/logstash-5.4.1/filebeat-5.4.1/kibana-5.4.1 )
 
 blog：[ELK自动安装脚本](http://blog.51cto.com/kaliarch/1964265)
+
+## Smokeping
+> smokeping-2.6.11 版本安装
+
+blog：[Smokeping自动安装脚本](http://blog.51cto.com/kaliarch/1899007)
+
+## MongoDB备份
+> mongodb备份
+
+blog：[MongoDB备份](http://blog.51cto.com/kaliarch/2044423)
+
+## Postgresql主从状态监控
+> Postgresql主从状态监控
+
+blog：[Postgresql主从](http://blog.51cto.com/kaliarch/1909936)
+
+## Oracle rman清理
+> Oracle rman磁盘清理
+
+blog：[Oracle自动清理日志脚本](http://blog.51cto.com/kaliarch/1983430)
+
+
+
+
