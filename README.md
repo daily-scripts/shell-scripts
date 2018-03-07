@@ -34,6 +34,10 @@ blog：[Postgresql主从](http://blog.51cto.com/kaliarch/1909936)
 
 blog：[Oracle自动清理日志脚本](http://blog.51cto.com/kaliarch/1983430)
 
+## Memcached 安装脚本
+> Memcached 安装脚本
+
+blog：[Memcached 安装脚本](http://blog.51cto.com/kaliarch/2083810)
 
 
 
