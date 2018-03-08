@@ -39,5 +39,8 @@ blog：[Oracle自动清理日志脚本](http://blog.51cto.com/kaliarch/1983430)
 
 blog：[Memcached 安装脚本](http://blog.51cto.com/kaliarch/2083810)
 
+## Netanybak网络设备备份
+> 网络设备备份
 
+blog：[Hillstone 防火墙备份脚本](http://blog.51cto.com/kaliarch/1953118)
 
