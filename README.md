@@ -39,6 +39,10 @@ blog：[Oracle自动清理日志脚本](http://blog.51cto.com/kaliarch/1983430)
 
 blog：[Memcached 安装脚本](http://blog.51cto.com/kaliarch/2083810)
 
+## Mongodb 安装脚本
+> Mongodb 安装脚本
+
+blog：[Mongodb 安装脚本](http://blog.51cto.com/kaliarch/2128814)
 ## Netanybak网络设备备份
 > 网络设备备份
 
