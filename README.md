@@ -48,3 +48,8 @@ blog：[Mongodb 安装脚本](http://blog.51cto.com/kaliarch/2128814)
 
 blog：[Hillstone 防火墙备份脚本](http://blog.51cto.com/kaliarch/1953118)
 
+## Linux系统快速安装不通版本Python
+> 快捷安装不同版本Python
+
+blog：[快速安装不同版本Python](http://blog.51cto.com/kaliarch/2135518)
+
