@@ -68,7 +68,9 @@ fi
 cd /tmp/${dirname}
 ./configure --prefix=/usr/local/${VER}
 make && make install
-echo "export PATH=$PATH:/usr/local/${VER}/bin">/etc/profile.d/${VER}.sh && source /etc/profile.d/${VER}.sh
+echo "export PATH=$PATH:/usr/local/${VER}/bin">/etc/profile.d/${VER}.sh
+source /etc/profile.d/${VER}.sh
+#/usr/local/${VER}/bin/python /tmp/get-pip.py
 rm -rf /tmp/${VER}
 echo "/usr/local/${VER}/lib">/etc/ld.so.conf.d/${VER}.conf
 ldconfig
