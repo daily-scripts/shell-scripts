@@ -53,3 +53,13 @@ blog：[Hillstone 防火墙备份脚本](http://blog.51cto.com/kaliarch/1953118)
 
 blog：[快速安装不同版本Python](http://blog.51cto.com/kaliarch/2135518)
 
+
+## Linux自定义防误删脚本
+> Linux自定义防误删脚本
+
+blog：[Linux自定义防误删脚本](http://blog.51cto.com/kaliarch/2300148)
+
+## Shell脚本对Linux进行文件校验
+> Shell脚本对Linux进行文件校验
+
+blog：[Shell脚本对Linux进行文件校验](http://blog.51cto.com/kaliarch/2300207)
