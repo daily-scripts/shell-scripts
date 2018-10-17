@@ -63,3 +63,8 @@ blog：[Linux自定义防误删脚本](http://blog.51cto.com/kaliarch/2300148)
 > Shell脚本对Linux进行文件校验
 
 blog：[Shell脚本对Linux进行文件校验](http://blog.51cto.com/kaliarch/2300207)
+
+## Linux命令行翻译工具
+> Linux命令行翻译工具
+
+blog：[Linux命令行翻译工具](http://blog.51cto.com/kaliarch/2301105)
