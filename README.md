@@ -68,3 +68,8 @@ blog：[Shell脚本对Linux进行文件校验](http://blog.51cto.com/kaliarch/23
 > Linux命令行翻译工具
 
 blog：[Linux命令行翻译工具](http://blog.51cto.com/kaliarch/2301105)
+
+## Linux系统检测脚本
+> Linux系统检测脚本
+
+blog：[Linux系统检测脚本](http://blog.51cto.com/kaliarch/2308233)
