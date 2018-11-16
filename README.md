@@ -73,3 +73,9 @@ blog：[Linux命令行翻译工具](http://blog.51cto.com/kaliarch/2301105)
 > Linux系统检测脚本
 
 blog：[Linux系统检测脚本](http://blog.51cto.com/kaliarch/2308233)
+
+## Linux系统进程CPU使用率限制脚本
+> Linux系统进程CPU使用率限制脚本
+
+blog：[Linux系统进程CPU使用率限制脚本](http://blog.51cto.com/kaliarch/2318020)
+
