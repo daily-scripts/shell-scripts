@@ -46,7 +46,7 @@ systemctl stop firewalld
 cat >>/etc/security/limits.conf<<EOF
 * soft nofile 65536 
 * hard nofile 65536 
-* soft nGproc 65536 
+* soft nproc 65536 
 * hard nproc 65536
 EOF
 }
